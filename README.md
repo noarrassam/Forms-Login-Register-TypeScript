@@ -14,7 +14,7 @@ It is a React TypeScript application that allows a user to register, login, edit
 
 - Bootstrap-CDN
 
-- React JS
+- React TypeScript
 
 - Controlled Components
 
